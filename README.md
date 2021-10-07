@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PaddyMcPatterson
+- 👀 I’m interested in many things, the short list is: making physical things, rock climbing, gaming, and music.
+- 🌱 I’m currently learning a few instruments, how to stream on twitch, and Python 3.
+- 💞️ I’m looking to collaborate on helping some friends with their projects, making some MC datapacks, and whatever else I feel like
+- 📫 How to reach me idfk, just try, i use paddymcpatterson as my username on most social medias.
